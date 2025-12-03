@@ -1,0 +1,11 @@
+C:\Users\fathy mohamed\source\repos\Learn Git\Learn Git\bin\Debug\Learn Git.exe.config
+C:\Users\fathy mohamed\source\repos\Learn Git\Learn Git\bin\Debug\Learn Git.exe
+C:\Users\fathy mohamed\source\repos\Learn Git\Learn Git\bin\Debug\Learn Git.pdb
+C:\Users\fathy mohamed\source\repos\Learn Git\Learn Git\obj\Debug\Learn Git.csproj.AssemblyReference.cache
+C:\Users\fathy mohamed\source\repos\Learn Git\Learn Git\obj\Debug\Learn Git.csproj.SuggestedBindingRedirects.cache
+C:\Users\fathy mohamed\source\repos\Learn Git\Learn Git\obj\Debug\Learn_Git.Form1.resources
+C:\Users\fathy mohamed\source\repos\Learn Git\Learn Git\obj\Debug\Learn_Git.Properties.Resources.resources
+C:\Users\fathy mohamed\source\repos\Learn Git\Learn Git\obj\Debug\Learn Git.csproj.GenerateResource.cache
+C:\Users\fathy mohamed\source\repos\Learn Git\Learn Git\obj\Debug\Learn Git.csproj.CoreCompileInputs.cache
+C:\Users\fathy mohamed\source\repos\Learn Git\Learn Git\obj\Debug\Learn Git.exe
+C:\Users\fathy mohamed\source\repos\Learn Git\Learn Git\obj\Debug\Learn Git.pdb

@@ -17,14 +17,10 @@ namespace Learn_Git
             InitializeComponent();
         }
 
-        public void ptint()
-        {
-            MessageBox.Show("You Pressed Button 1");
-        }
-
+ 
         private void button1_Click(object sender, EventArgs e)
         {
-            ptint();
+            MessageBox.Show("Your Name is" + textBox1.Text);
         }
     }
 }
